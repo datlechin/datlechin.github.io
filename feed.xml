@@ -4,7 +4,7 @@
         <title>Ngo Quoc Dat Blog</title>
         <link>https://datlechin.github.io</link>
         <description></description>
-        <lastBuildDate>Thu, 07 Jan 2021 18:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2021 19:03:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 08 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[How to install Flarum forum]]></description>
             <content:encoded><![CDATA[How to install Flarum forum]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[65 Things I wish I knew when I started to Code]]></title>
+            <link>https://datlechin.github.io/65-things-i-wish-i-knew-when-i-started-to-code</link>
+            <guid>https://datlechin.github.io/65-things-i-wish-i-knew-when-i-started-to-code</guid>
+            <pubDate>Fri, 08 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[No success story is the same, we all have had our ups and downs in the learning process and things we wish we knew when we started out.]]></description>
+            <content:encoded><![CDATA[No success story is the same, we all have had our ups and downs in the learning process and things we wish we knew when we started out.]]></content:encoded>
         </item>
     </channel>
 </rss>
