@@ -4,9 +4,17 @@
         <title>Ngo Quoc Dat Blog</title>
         <link>https://datlechin.github.io</link>
         <description></description>
-        <lastBuildDate>Thu, 07 Jan 2021 19:03:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2021 10:47:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[6 Ways to Loop Through an Array in JavaScript]]></title>
+            <link>https://datlechin.github.io/6-ways-to-loop-through-an-array-in-javascript</link>
+            <guid>https://datlechin.github.io/6-ways-to-loop-through-an-array-in-javascript</guid>
+            <pubDate>Sat, 09 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dealing with arrays is everyday work for every developer. In this article, we are going to see 6 different approaches to how you can iterate through in Javascript.]]></description>
+            <content:encoded><![CDATA[Dealing with arrays is everyday work for every developer. In this article, we are going to see 6 different approaches to how you can iterate through in Javascript.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[PHP 8 is now Released!]]></title>
             <link>https://datlechin.github.io/php-8</link>
