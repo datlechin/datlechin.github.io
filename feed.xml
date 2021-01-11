@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Ngo Quoc Dat Blog</title>
+        <link>https://datlechin.github.io</link>
+        <description></description>
+        <lastBuildDate>Mon, 11 Jan 2021 13:52:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Why You Might Not Need Vuex With Vue 3]]></title>
+            <link>https://datlechin.github.io/why-you-might-not-need-vuex-with-vue-3</link>
+            <guid>https://datlechin.github.io/why-you-might-not-need-vuex-with-vue-3</guid>
+            <pubDate>Mon, 11 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Vuex is an awesome state management library. It’s simple and integrates well with Vue. Why would anyone leave Vuex?]]></description>
+            <content:encoded><![CDATA[Vuex is an awesome state management library. It’s simple and integrates well with Vue. Why would anyone leave Vuex?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6 Ways to Loop Through an Array in JavaScript]]></title>
+            <link>https://datlechin.github.io/6-ways-to-loop-through-an-array-in-javascript</link>
+            <guid>https://datlechin.github.io/6-ways-to-loop-through-an-array-in-javascript</guid>
+            <pubDate>Sat, 09 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dealing with arrays is everyday work for every developer. In this article, we are going to see 6 different approaches to how you can iterate through in Javascript.]]></description>
+            <content:encoded><![CDATA[Dealing with arrays is everyday work for every developer. In this article, we are going to see 6 different approaches to how you can iterate through in Javascript.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[PHP 8 is now Released!]]></title>
+            <link>https://datlechin.github.io/php-8</link>
+            <guid>https://datlechin.github.io/php-8</guid>
+            <pubDate>Fri, 08 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Released! PHP 8.0 is a major update of the PHP language]]></description>
+            <content:encoded><![CDATA[Released! PHP 8.0 is a major update of the PHP language]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How to install Flarum]]></title>
+            <link>https://datlechin.github.io/how-to-install-flarum</link>
+            <guid>https://datlechin.github.io/how-to-install-flarum</guid>
+            <pubDate>Fri, 08 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to install Flarum forum]]></description>
+            <content:encoded><![CDATA[How to install Flarum forum]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[65 Things I wish I knew when I started to Code]]></title>
+            <link>https://datlechin.github.io/65-things-i-wish-i-knew-when-i-started-to-code</link>
+            <guid>https://datlechin.github.io/65-things-i-wish-i-knew-when-i-started-to-code</guid>
+            <pubDate>Fri, 08 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[No success story is the same, we all have had our ups and downs in the learning process and things we wish we knew when we started out.]]></description>
+            <content:encoded><![CDATA[No success story is the same, we all have had our ups and downs in the learning process and things we wish we knew when we started out.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
